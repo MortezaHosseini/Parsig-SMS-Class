@@ -1,0 +1,16 @@
+Parsig SMS Class V1.0 stable
+===================
+Author : S.Morteza Hosseini (http://1barnamenevis.ir)
+Released under the terms of the GNU Public License.
+See the GPL for details (http://www.gnu.org/licenses/gpl.html).
+
+Parsig SMS Class :
+Parsig SMS Class is a SMS handler for parsig sms service (http://sbox.ir) . you can connect to the web service and send or receive sms remotely from your applications .
+
+Features :
+One sms send
+Multi sms send
+fetch received messages
+get account info
+
+
